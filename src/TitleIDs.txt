@@ -1,0 +1,14 @@
+41560855, Call of Duty: Black Ops
+415608FC, Call of Duty : Ghosts
+41560914, Call of Duty: Advanced Warfare
+4156081C, Call of Duty: WaW
+41560817, Modern Warfare 2
+415608CB, Modern Warfare 3
+415608C3, COD: Black Ops II
+FFFE07D1, Xbox 360 Dashboard
+
+// Additional titles can be added. If a title ID is not found, the message "No matching game found for Title ID" will be displayed.
+// Just copy the title Id and add the name.
+
+
+// example: "FFFE07D1, Xbox 360 Dashboard"
